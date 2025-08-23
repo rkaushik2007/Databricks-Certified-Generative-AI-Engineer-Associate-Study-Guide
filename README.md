@@ -1,5 +1,3 @@
-# Databricks-Certified-Generative-AI-Engineer-Associate-Study-Guide
-
 # Databricks Certified Generative AI Engineer Associate Study Guide
 
 Welcome to the official companion repository for the upcoming O’Reilly book:  
