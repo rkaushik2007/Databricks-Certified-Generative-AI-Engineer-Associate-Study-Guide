@@ -71,6 +71,3 @@ To run the labs, you’ll need:
 - **Databricks Workspace** (Community or Enterprise)  
 - **Python 3.9+**  
 - **Databricks Runtime ML** (latest recommended)  
-- Libraries from `requirements.txt`:
-  ```bash
-  pip install -r requirements.txt
