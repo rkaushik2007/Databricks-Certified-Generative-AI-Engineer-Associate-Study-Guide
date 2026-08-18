@@ -68,6 +68,6 @@ The repository mirrors the structure of the book, with folders for each chapter,
 
 To run the labs, you’ll need:
 
-- **Databricks Workspace** (Community or Enterprise)  
+- **Databricks Workspace** (Enterprise is recommended)  
 - **Python 3.9+**  
 - **Databricks Runtime ML** (latest recommended)  
